@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@formatjs/intl-localematcher": "^0.5.2",
+    "@formatjs/intl-localematcher": "^0.5.4",
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@rollup/plugin-terser": "^0.4.4"
   }

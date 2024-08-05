@@ -4,6 +4,10 @@ Build for localematcher polyfill
 
 https://github.com/tc39/proposal-intl-localematcher
 
+## Build
+rollup -c  
+
+
 ## API USAGE:
 
 ```js
